@@ -5,3 +5,5 @@ Simple template HTML over the Wire (HTML over WebSockets) in Django using Channe
 ```
 docker-compose up
 ```
+
+Open: `hello.localhost`.
